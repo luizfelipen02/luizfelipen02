@@ -7,7 +7,8 @@
 
 📗 - Estudante Alura Oracle Next One;<br> 
 📘 - Estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI;<br>
-📙 - Estudante de Gerenciamento de Projetos by Google.<br>
+📙 - Estudante de Gerenciamento de Projetos by Google;<br>
+📕 - Formado em Desenvolvimento de Sistemas pela ETEC de Itaquaquecetuba.<br>
 
 <div style="display: inline_block"><br>
 <p><b> 📚 Linguagens de Conhecimento: </b></p>
