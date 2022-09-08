@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá! Meu nome é Luiz Felipe, tudo certo?
 
-<!--
-**luizfelipen02/luizfelipen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Pronouns: Ele/Dele 🧑
+- Localização: Itaquaquecetuba/SP 🗺
 
-Here are some ideas to get you started:
+<p><b> 📖 Áreas de Estudo: </b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📗 - Estudante Alura Oracle Next One;<br> 
+📘 - Estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI;<br>
+📙 - Estudante de Gerenciamento de Projetos by Google.<br>
+
+<div style="display: inline_block"><br>
+<p><b> 📚 Linguagens de Conhecimento: </b></p>
+  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<div><br>
+<p><b> 📫 Pode me encontrar aqui: </b></p>
+<a href="https://api.whatsapp.com/send?phone=5511916198676" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luiz.santos768@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luizfelipen02/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div><br>
+<p><b> 💻 Pacote Office: </b></p>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Nível Intermediário/Avançado">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Nível Intermediário">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Nível Intermediário">
+</div>
