@@ -5,7 +5,6 @@
 
 <p><b> 📖 Áreas de Estudo: </b></p>
 
-📗 - Estudante Alura Oracle Next One;<br> 
 📘 - Estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI;<br>
 📙 - Estudante de Gerenciamento de Projetos by Google;<br>
 📕 - Formado em Desenvolvimento de Sistemas pela ETEC de Itaquaquecetuba.<br>
@@ -20,7 +19,7 @@
 
 <div><br>
 <p><b> 📫 Pode me encontrar aqui: </b></p>
-<a href="https://api.whatsapp.com/send?phone=5511916198676"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511958135314"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luiz.santos768@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizfelipen02/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
