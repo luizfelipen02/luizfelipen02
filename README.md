@@ -1,6 +1,5 @@
 ### Olá! Meu nome é Luiz Felipe, tudo certo?
 
-- Pronouns: Ele/Dele 🧑
 - Localização: Itaquaquecetuba/SP 🗺
 
 <p><b> 📖 Áreas de Estudo: </b></p>
